@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-223.8214.52">
+    <data-source name="EDU_FIN_STG_0067_01@EDU-FIN-0067-01.srm.local" uuid="dab1a385-d9f0-454f-b253-0506e8bf59fa">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MSSQL" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>anafee</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
